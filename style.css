@@ -67,6 +67,10 @@ article{
     align-items: center;
 }
 
+article h2{
+    text-transform: capitalize;
+}
+
 article p{
     margin: 20px;
     font-size: 18px;
